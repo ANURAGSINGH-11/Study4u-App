@@ -1,0 +1,7 @@
+{
+  "name": "dribbble-design",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
